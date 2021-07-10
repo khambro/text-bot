@@ -1,0 +1,9 @@
+/node_modules
+__pycache__/
+/.pnp
+.pnp.js
+package-lock.json
+.eslintcache
+/.serverless
+/twilio-bot-venv
+serverless.yml
